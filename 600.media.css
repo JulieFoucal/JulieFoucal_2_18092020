@@ -1,0 +1,149 @@
+@media screen and (max-width : 600px) {
+
+    ol {
+        display: flex;
+        flex-direction: column;
+        margin: 0;
+
+    }
+
+    nav {
+        width: 61%;
+        background-color: green;
+
+    }
+
+
+
+    li {
+        width: 50%;
+    }
+
+    ol {
+        display: flex;
+        flex-direction: row;
+        
+    }
+
+    nav li {
+        display: inline-block;
+        margin-top: 10px;
+        list-style-type: order;
+    }
+
+
+
+    nav ul {
+        display: inline-block;
+        list-style-type: none;
+
+    }
+
+    .btn {
+        display: none;
+    }
+
+    .loupe {
+        padding: 14px;
+        display: inline-block;
+        color: white;
+        height: 23px;
+        width: 30px;
+        display: inline-block;
+    }
+
+
+    .cartes p {
+        margin-top: 0;
+    }
+
+    .carte1 p {
+        margin-top: 12px;
+    }
+
+    .cartes2 p {
+        margin-bottom: 50px;
+        margin-top: 80px;
+    }
+
+    .cartes3 p {
+        margin-bottom: 50px;
+        margin-top: 100px;
+    }
+
+    .carte4 p {
+        margin-top: 12px;
+    }
+
+    .carte5 p {
+        margin-bottom: 5px;
+        margin-top: 100px;
+    }
+
+    .carte6 p {
+        margin-bottom: 5px;
+        margin-top: 80px;
+    }
+
+
+    nav li {
+        display: inline-block;
+        margin-top: 10px;
+        list-style-type: order;
+    }
+
+
+
+    nav ul {
+        display: inline-block;
+        list-style-type: none;
+
+    }
+
+    .btn {
+        display: none;
+    }
+
+    
+
+
+    .cartes p {
+        margin-top: 0;
+    }
+
+    .carte1 p {
+        margin-top: 12px;
+    }
+
+    .cartes2 p {
+        margin-bottom: 50px;
+        margin-top: 80px;
+    }
+
+    .cartes3 p {
+        margin-bottom: 50px;
+        margin-top: 100px;
+    }
+
+    .carte4 p {
+        margin-top: 12px;
+    }
+
+    .carte5 p {
+        margin-bottom: 5px;
+        margin-top: 100px;
+    }
+
+    .carte6 p {
+        margin-bottom: 5px;
+        margin-top: 80px;
+    }
+
+
+footer li{
+    border-bottom: none;
+    text-align: left;
+}
+
+
+}
