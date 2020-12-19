@@ -326,8 +326,9 @@ p {
     margin-top: 45px;
 }
 
-.bloc p{
+.blocgauche p{
     font-style: black;
+    color: black;
 }
 .afficher {
     margin-left: 20px;
